@@ -1,0 +1,10 @@
+led\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.c
+led\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.h
+led\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+led\lv_printf.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+led\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+led\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+led\lv_printf.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+led\lv_printf.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stddef.h
+led\lv_printf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+led\lv_printf.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stdbool.h

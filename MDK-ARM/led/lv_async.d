@@ -1,0 +1,13 @@
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.c
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+led\lv_async.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+led\lv_async.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stddef.h
+led\lv_async.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\string.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_timer.h
+led\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../hal/lv_hal_tick.h
+led\lv_async.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stdbool.h
